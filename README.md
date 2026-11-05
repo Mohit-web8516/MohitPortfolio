@@ -106,13 +106,6 @@ Your website URL will follow this format:
 - **GitHub:** https://github.com/Mohit-web8516
 - **LinkedIn:** https://www.linkedin.com/in/mohit-shrivastav-b66a07322/
 
-## Important Notes
-
-- This project currently uses HTML, CSS, and JavaScript for its frontend.
-- No Java backend, database integration, or server-side processing is included in this version.
-- The contact form requires a backend or external form service to actually deliver messages.
-- Update project links and the live website URL after publishing.
-
 ---
 
 **Designed and developed by Mohit Shrivastav**
